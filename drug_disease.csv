@@ -1,0 +1,23 @@
+drug,disease,lineOfTherapy
+Metformin,Type 2 Diabetes,first-line
+Insulin Glargine,Type 1 Diabetes,first-line
+Insulin Glargine,Type 2 Diabetes,second-line
+Lisinopril,Hypertension,first-line
+Lisinopril,Chronic Kidney Disease,first-line
+Lisinopril,Heart Failure,first-line
+Amlodipine,Hypertension,second-line
+Salbutamol,Asthma,rescue
+Budesonide,Asthma,maintenance
+Budesonide,Chronic Obstructive Pulmonary Disease,maintenance
+Furosemide,Heart Failure,first-line
+Furosemide,Chronic Kidney Disease,second-line
+Levothyroxine,Hypothyroidism,first-line
+Ferrous Sulfate,Anemia,first-line
+Warfarin,Atrial Fibrillation,first-line
+Atorvastatin,Hypertension,adjunct
+Atorvastatin,Heart Failure,adjunct
+Omeprazole,Gastroesophageal Reflux Disease,first-line
+Sertraline,Depression,first-line
+Sumatriptan,Migraine,rescue
+Methotrexate,Rheumatoid Arthritis,first-line
+Alendronate,Osteoporosis,first-line

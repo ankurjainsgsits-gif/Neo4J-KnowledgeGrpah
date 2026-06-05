@@ -1,0 +1,11 @@
+drug_a,drug_b,severity,effect
+Warfarin,Methotrexate,major,Increases bleeding risk significantly
+Warfarin,Atorvastatin,moderate,May increase anticoagulant effect
+Warfarin,Omeprazole,moderate,Omeprazole inhibits Warfarin metabolism
+Warfarin,Sertraline,moderate,Increases bleeding risk
+Lisinopril,Furosemide,moderate,Risk of excessive blood pressure drop
+Metformin,Furosemide,moderate,Furosemide may raise blood sugar
+Sertraline,Sumatriptan,moderate,Risk of serotonin syndrome
+Atorvastatin,Amlodipine,minor,Amlodipine may increase statin levels
+Budesonide,Furosemide,minor,Corticosteroids may reduce diuretic effect
+Methotrexate,Omeprazole,moderate,Omeprazole may increase Methotrexate toxicity

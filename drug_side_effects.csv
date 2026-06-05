@@ -1,0 +1,18 @@
+drug,symptom,frequency
+Metformin,Nausea,common
+Metformin,Dizziness,rare
+Lisinopril,Coughing,common
+Lisinopril,Dizziness,common
+Furosemide,Dizziness,common
+Furosemide,Muscle Weakness,common
+Atorvastatin,Muscle Weakness,common
+Atorvastatin,Joint Pain,occasional
+Sertraline,Nausea,common
+Sertraline,Insomnia,common
+Sertraline,Headache,common
+Methotrexate,Nausea,common
+Methotrexate,Fatigue,common
+Warfarin,Dizziness,occasional
+Alendronate,Heartburn,common
+Alendronate,Bone Pain,occasional
+Budesonide,Coughing,occasional

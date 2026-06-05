@@ -1,0 +1,16 @@
+name,icd10,category,description
+Type 2 Diabetes,E11,Metabolic,Chronic condition affecting blood sugar regulation
+Hypertension,I10,Cardiovascular,Persistently elevated blood pressure in arteries
+Asthma,J45,Respiratory,Chronic inflammatory disease of the airways
+Chronic Kidney Disease,N18,Renal,Gradual loss of kidney function over time
+Heart Failure,I50,Cardiovascular,Heart cannot pump blood efficiently
+Hypothyroidism,E03,Endocrine,Underactive thyroid producing insufficient hormones
+Chronic Obstructive Pulmonary Disease,J44,Respiratory,Group of diseases causing blocked airflow to the lungs
+Anemia,D64,Hematologic,Lack of healthy red blood cells to carry oxygen
+Atrial Fibrillation,I48,Cardiovascular,Irregular and often rapid heart rate
+Type 1 Diabetes,E10,Metabolic,Autoimmune disease destroying insulin-producing cells
+Osteoporosis,M81,Musculoskeletal,Bones become weak and brittle
+Gastroesophageal Reflux Disease,K21,Gastrointestinal,Stomach acid flows back into the esophagus
+Depression,F32,Psychiatric,Persistent low mood and loss of interest
+Migraine,G43,Neurological,Recurrent severe headaches often with nausea
+Rheumatoid Arthritis,M05,Autoimmune,Chronic inflammatory disorder affecting joints

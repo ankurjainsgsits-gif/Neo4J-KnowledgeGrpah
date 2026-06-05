@@ -1,0 +1,17 @@
+name,drugClass,form,approved
+Metformin,Biguanide,Oral tablet,true
+Lisinopril,ACE Inhibitor,Oral tablet,true
+Amlodipine,Calcium Channel Blocker,Oral tablet,true
+Salbutamol,Beta-2 Agonist,Inhaler,true
+Budesonide,Corticosteroid,Inhaler,true
+Levothyroxine,Thyroid Hormone,Oral tablet,true
+Furosemide,Loop Diuretic,Oral tablet,true
+Ferrous Sulfate,Iron Supplement,Oral tablet,true
+Warfarin,Anticoagulant,Oral tablet,true
+Atorvastatin,Statin,Oral tablet,true
+Omeprazole,Proton Pump Inhibitor,Oral capsule,true
+Sertraline,SSRI,Oral tablet,true
+Sumatriptan,Triptan,Oral tablet,true
+Methotrexate,DMARD,Oral tablet,true
+Insulin Glargine,Long-acting Insulin,Injection,true
+Alendronate,Bisphosphonate,Oral tablet,true
