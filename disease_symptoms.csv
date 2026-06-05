@@ -1,0 +1,60 @@
+disease,symptom,frequency
+Type 2 Diabetes,Fatigue,very common
+Type 2 Diabetes,Increased Thirst,very common
+Type 2 Diabetes,Frequent Urination,very common
+Type 2 Diabetes,Blurred Vision,common
+Type 2 Diabetes,Nausea,occasional
+Hypertension,Headache,common
+Hypertension,Blurred Vision,common
+Hypertension,Chest Pain,occasional
+Hypertension,Dizziness,common
+Asthma,Wheezing,very common
+Asthma,Shortness of Breath,very common
+Asthma,Coughing,common
+Chronic Kidney Disease,Fatigue,common
+Chronic Kidney Disease,Frequent Urination,common
+Chronic Kidney Disease,Nausea,common
+Chronic Kidney Disease,Swollen Joints,occasional
+Heart Failure,Shortness of Breath,very common
+Heart Failure,Fatigue,very common
+Heart Failure,Weight Gain,common
+Heart Failure,Dizziness,common
+Hypothyroidism,Fatigue,very common
+Hypothyroidism,Weight Gain,common
+Hypothyroidism,Cold Sensitivity,common
+Hypothyroidism,Low Mood,common
+Hypothyroidism,Muscle Weakness,common
+Chronic Obstructive Pulmonary Disease,Coughing,very common
+Chronic Obstructive Pulmonary Disease,Shortness of Breath,very common
+Chronic Obstructive Pulmonary Disease,Wheezing,common
+Chronic Obstructive Pulmonary Disease,Fatigue,common
+Anemia,Fatigue,very common
+Anemia,Pale Skin,common
+Anemia,Shortness of Breath,common
+Anemia,Dizziness,common
+Atrial Fibrillation,Palpitations,very common
+Atrial Fibrillation,Rapid Heartbeat,very common
+Atrial Fibrillation,Shortness of Breath,common
+Atrial Fibrillation,Fatigue,common
+Atrial Fibrillation,Dizziness,common
+Type 1 Diabetes,Fatigue,very common
+Type 1 Diabetes,Increased Thirst,very common
+Type 1 Diabetes,Frequent Urination,very common
+Type 1 Diabetes,Weight Gain,occasional
+Osteoporosis,Bone Pain,common
+Osteoporosis,Muscle Weakness,common
+Gastroesophageal Reflux Disease,Heartburn,very common
+Gastroesophageal Reflux Disease,Nausea,common
+Gastroesophageal Reflux Disease,Chest Pain,occasional
+Depression,Low Mood,very common
+Depression,Fatigue,very common
+Depression,Insomnia,common
+Depression,Weight Gain,common
+Migraine,Headache,very common
+Migraine,Nausea,very common
+Migraine,Sensitivity to Light,very common
+Migraine,Dizziness,common
+Rheumatoid Arthritis,Joint Pain,very common
+Rheumatoid Arthritis,Swollen Joints,very common
+Rheumatoid Arthritis,Fatigue,common
+Rheumatoid Arthritis,Low Mood,occasional
